@@ -1,1 +1,4 @@
-id -un
+#!/bin/bash
+echo id -un >> 1-who_am_i
+echo echo id -un
+ id -un
